@@ -5,3 +5,5 @@ eventually I won't be lazy and package them for upload
 
 https://github.com/Ganapati/RsaCtfTool
 
+https://github.com/danielmiessler/SecLists
+
