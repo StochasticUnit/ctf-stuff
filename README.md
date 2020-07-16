@@ -28,6 +28,8 @@ Lots of lists: https://github.com/danielmiessler/SecLists
 
 IP lookup: https://www.arin.net/
 
+Reverse shells: https://highon.coffee/blog/reverse-shell-cheat-sheet/
+
 ## Articles
 https://null-byte.wonderhowto.com/how-to/create-custom-wordlists-for-password-cracking-using-mentalist-0183992/
 
